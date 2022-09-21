@@ -1,0 +1,26 @@
+_repo: Catalogue-of-a-collection-of-early-drawings-and-pictures-of-London-With-some-contemporary-fur__68989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Club, Burlington Fine Arts
+    gutenberg_agent_id: '55046'
+    url: http://www.gutenberg.org/2009/agents/55046
+description: ''
+gutenberg_issued: '2022-09-14'
+identifiers:
+  gutenberg: '68989'
+language: en
+pgterms:marc904: https://archive.org/details/catalogueofcolle00burluoft
+pgterms:marc905: 20180527112637author
+pgterms:marc906: '1920'
+production_note: Melissa McDaniel and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: Privately Printed by the Chiswick Press,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Catalogue of a collection of early drawings and pictures of London: With some
+  contemporary furniture'
+url: http://www.gutenberg.org/ebooks/68989
